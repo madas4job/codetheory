@@ -1,0 +1,71 @@
+8/8/2017 7:15:49 AM	This log contains information about the import schema operation into project 'Databasesql' on computer 'EIW900605' by user 'maa'.
+8/8/2017 7:15:49 AM	Import of database schema has started.
+8/8/2017 7:15:55 AM	Gathering database options
+8/8/2017 7:15:55 AM	Gathering users
+8/8/2017 7:15:55 AM	Gathering roles
+8/8/2017 7:15:55 AM	Gathering application roles
+8/8/2017 7:15:55 AM	Gathering role memberships
+8/8/2017 7:15:55 AM	Gathering filegroups
+8/8/2017 7:15:55 AM	Gathering full-text catalogs
+8/8/2017 7:15:55 AM	Gathering assemblies
+8/8/2017 7:15:55 AM	Gathering certificates
+8/8/2017 7:15:55 AM	Gathering asymmetric keys
+8/8/2017 7:15:55 AM	Gathering symmetric keys
+8/8/2017 7:15:55 AM	Gathering encrypted symmetric keys
+8/8/2017 7:15:55 AM	Gathering schemas
+8/8/2017 7:15:55 AM	Gathering XML schema collections
+8/8/2017 7:15:55 AM	Gathering user-defined data types
+8/8/2017 7:15:55 AM	Gathering user-defined types
+8/8/2017 7:15:55 AM	Gathering table types
+8/8/2017 7:15:55 AM	Gathering unique keys for table types
+8/8/2017 7:15:55 AM	Gathering primary keys for table types
+8/8/2017 7:15:55 AM	Gathering check constraints for table types
+8/8/2017 7:15:55 AM	Gathering default constraints for table types
+8/8/2017 7:15:55 AM	Gathering partition functions
+8/8/2017 7:15:55 AM	Gathering partition schemes
+8/8/2017 7:15:55 AM	Gathering functions
+8/8/2017 7:15:55 AM	Gathering encrypted functions
+8/8/2017 7:15:55 AM	Gathering aggregates
+8/8/2017 7:15:55 AM	Gathering procedures
+8/8/2017 7:15:55 AM	Gathering encrypted procedures
+8/8/2017 7:15:55 AM	Gathering tables
+8/8/2017 7:15:55 AM	Gathering primary keys
+8/8/2017 7:15:55 AM	Gathering unique constraints
+8/8/2017 7:15:55 AM	Gathering foreign keys
+8/8/2017 7:15:55 AM	Gathering default constraints
+8/8/2017 7:15:55 AM	Gathering check constraints
+8/8/2017 7:15:55 AM	Gathering views
+8/8/2017 7:15:55 AM	Gathering encrypted views
+8/8/2017 7:15:55 AM	Gathering indexes
+8/8/2017 7:15:55 AM	Gathering statistics
+8/8/2017 7:15:55 AM	Gathering full-text index stoplists
+8/8/2017 7:15:55 AM	Gathering full-text indexes
+8/8/2017 7:15:55 AM	Gathering spatial indexes
+8/8/2017 7:15:55 AM	Gathering XML indexes
+8/8/2017 7:15:55 AM	Gathering encrypted triggers
+8/8/2017 7:15:55 AM	Gathering triggers
+8/8/2017 7:15:55 AM	Gathering encrypted and clr ddl triggers
+8/8/2017 7:15:55 AM	Gathering ddl triggers
+8/8/2017 7:15:55 AM	Gathering synonyms
+8/8/2017 7:15:55 AM	Gathering defaults
+8/8/2017 7:15:55 AM	Gathering data constraint uddt bindings
+8/8/2017 7:15:55 AM	Gathering rules
+8/8/2017 7:15:55 AM	Gathering data constraint uddt bindings
+8/8/2017 7:15:55 AM	Gathering message types
+8/8/2017 7:15:55 AM	Gathering queues
+8/8/2017 7:15:55 AM	Gathering contracts
+8/8/2017 7:15:55 AM	Gathering services
+8/8/2017 7:15:55 AM	Gathering event notifications
+8/8/2017 7:15:55 AM	Gathering remote service bindings
+8/8/2017 7:15:55 AM	Gathering broker priorities
+8/8/2017 7:15:55 AM	Gathering signatures
+8/8/2017 7:15:55 AM	Gathering data compression options
+8/8/2017 7:15:55 AM	Gathering extended properties
+8/8/2017 7:15:55 AM	Gathering credentials
+8/8/2017 7:15:55 AM	Gathering logins
+8/8/2017 7:15:55 AM	Gathering server audits
+8/8/2017 7:15:55 AM	Scanning project for duplicate elements
+8/8/2017 7:15:55 AM	Finished duplicate element processing
+8/8/2017 7:15:55 AM	Finished importing database.
+8/8/2017 7:15:55 AM	A summary of the import was saved to the following location: D:\Visual Studio Projects\TestWeb2\TestWeb2\Databasesql\Import Schema Logs\Databasesql_20170808014549.log
+8/8/2017 7:15:56 AM	Click Finish to continue...
